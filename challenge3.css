@@ -112,6 +112,7 @@ span{
      body{
           position: relative;
           left: 200px;
+          display: auto;
      }
      .img2{
           position: relative;
